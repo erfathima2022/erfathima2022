@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @erfathima2022
+- 👀 I’m interested in data analysis. 
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on beginner level support.
